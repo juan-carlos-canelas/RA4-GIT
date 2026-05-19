@@ -1,6 +1,6 @@
 public class Tabla12{
     public static void main(String[] arg){
-        for(int i=0; i <= 10; i++){
+        for(int i=0; i <= 30; i++){
             System.out.println(" 12*" + i + "=" + 12*i + "\n");
         }
     }
